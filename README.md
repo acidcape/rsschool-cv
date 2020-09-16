@@ -1,2 +1,2 @@
 # rsschool-cv
-rss
+https://acidcape.github.io/rsschool-cv/cv
